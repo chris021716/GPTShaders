@@ -1,0 +1,26 @@
+GPT Shaders Source Code License
+
+Copyright (c) 2026 Chris Inc. (which was totally not made up a couple seconds ago)
+
+You are free to:
+
+- View the source code.
+- Modify the source code.
+- Fork the project.
+- Learn from the source code.
+- Share your own modified versions.
+
+Please follow these rules:
+
+- Do not claim the original GPT Shaders project as your own.
+- If you create a fork or modified version, clearly state:
+  "Original project: GPT Shaders by Chris."
+- Please include a link to the original GitHub repository whenever possible.
+- Selling the source code or modified versions is discouraged. If you do, I probably won't sue you, but I'd really appreciate it if you didn't.
+
+Credits
+
+Original project: GPT Shaders
+Created by Chris with development assistance from ChatGPT.
+
+Thank you for respecting the original project and helping it grow.
