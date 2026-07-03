@@ -21,6 +21,6 @@ Please follow these rules:
 Credits
 
 Original project: GPT Shaders
-Created by Chris with development assistance from ChatGPT.
+Created by Chris with development assistance from ChatGPT. (and Gemini for G and GE)
 
 Thank you for respecting the original project and helping it grow.
