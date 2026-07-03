@@ -48,4 +48,4 @@ The Source Code is intended for developers and anyone who wants to learn how GPT
 Created by Chris with development assistance from ChatGPT.
 ## License
 
-See the LICENSE file for more information.
+See the License.txt file for more information.
